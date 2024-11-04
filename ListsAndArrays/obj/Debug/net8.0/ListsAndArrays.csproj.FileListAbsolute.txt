@@ -12,3 +12,4 @@
 /Users/jeffreyseneff/Dev/csharp_mooc/ListsAndArrays/obj/Debug/net8.0/ListsAndArrays.pdb
 /Users/jeffreyseneff/Dev/csharp_mooc/ListsAndArrays/obj/Debug/net8.0/ListsAndArrays.genruntimeconfig.cache
 /Users/jeffreyseneff/Dev/csharp_mooc/ListsAndArrays/obj/Debug/net8.0/ref/ListsAndArrays.dll
+/Users/jeffreyseneff/Dev/csharp_mooc/ListsAndArrays/obj/Debug/net8.0/ListsAndArrays.sourcelink.json
